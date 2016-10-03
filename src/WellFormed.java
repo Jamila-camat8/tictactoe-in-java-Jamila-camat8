@@ -1,0 +1,15 @@
+/**
+ * Created by L507FP5STU04 on 9/16/2016.
+ */
+public class WellFormed {
+    public static void main(String[] args) {
+        System.out.println("A well-formed Java program has");
+        System.out.println("a main method with {and} ");
+        System.out.println("braces.");
+        System.out.println();
+        System.out.println("A System.out.println statement");
+        System.out.println("has ( and ) and usually a");
+        System.out.println("with a \" character.");
+        System.out.println("(But we type \\\" insted)");
+    }
+}
